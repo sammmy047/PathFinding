@@ -9,3 +9,8 @@ Here the start position is represented with the blue color tile and the target i
 ![image](https://github.com/sammmy047/PathFinding/assets/76446088/4f1e62c0-eb47-4c63-905a-0363f3a00a65)
 
 
+Here the red tiles are used to represent all the possible paths that have been explored by the algorithm inorder to determine the optimal path.
+
+![image](https://github.com/sammmy047/PathFinding/assets/76446088/1cfe79b4-90f5-4a07-ac8c-5f4c4cd7fd9a)
+
+
