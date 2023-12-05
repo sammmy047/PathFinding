@@ -14,3 +14,6 @@ Here the red tiles are used to represent all the possible paths that have been e
 ![image](https://github.com/sammmy047/PathFinding/assets/76446088/1cfe79b4-90f5-4a07-ac8c-5f4c4cd7fd9a)
 
 
+Here the green tiles are use to represent the optimal path that has been discovered by the A* algorithm keeping track of the various obstacles present.
+
+![image](https://github.com/sammmy047/PathFinding/assets/76446088/9aceeae3-d34e-4418-a613-1732c4e8a932)
